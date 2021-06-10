@@ -8,7 +8,7 @@ This repository has the code I'm using for MeerKAT absolute astrometry and sourc
 
 The DOI for this GitHub repo is:
 
-
+[![DOI](https://zenodo.org/badge/332645734.svg)](https://zenodo.org/badge/latestdoi/332645734)
 
 <b>If you use the data or code in this repo, please make sure you cite it correctly!</b>
 
